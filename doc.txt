@@ -1,0 +1,3 @@
+chalk // change color in terminal
+nodemon // auto run code changed
+morgan // show http in terminal when reload
