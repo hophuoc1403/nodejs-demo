@@ -22,7 +22,7 @@ app.engine(
 app.set("view engine", "hbs");
 app.set("views", "./src/resources/views");
 
-// create ur;
+// create url;
 app.get("/news", (req, res) => {
   res.render("news");
 });
